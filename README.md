@@ -1,6 +1,6 @@
 # An analysis of bike hires in NYC in 2020
 
-![CitiBike Logo](/main/01%20Project%20Management/Citi_Bike_logo.jpg" width="273" height="106"))
+![CitiBike Logo](/blob/main/01%20Project%20Management/Citi_Bike_logo.jpg" width="273" height="106")
 
 ## This project placed me as an analyst for The Department of Transport in NYC.##
 They wanted an analysis/overview of the CitiBike bike hire scheme for 2020.
