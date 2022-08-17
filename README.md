@@ -21,15 +21,15 @@ They wanted an analysis/overview of the CitiBike bike hire scheme for 2020.
  - Categorical Plot
  - Folium Map
  - Regression Analysis
-  - * Creating Training and Test sets
-  - Regression Line Scatterplot
-  - Predicted v Actual comparision
+   * Creating Training and Test sets
+   * Regression Line Scatterplot
+   * Predicted v Actual comparision
  - Clusters
  - Time Series Analysis
-  - Decomposition
-  - Dickey-Fuller Test
-  - Differencing
-  - Autocorrelations
+   * Decomposition
+   * Dickey-Fuller Test
+   * Differencing
+   * Autocorrelations
 
 
 ## Key Questions & Objectives
