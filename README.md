@@ -2,7 +2,7 @@
 
 ![CitiBike Logo](/01%20Project%20Management/CitiBikeCollage.jpg)
 
-## This project placed me as an analyst for The Department of Transport in NYC.##
+## This project placed me as an analyst for The Department of Transport in NYC.
 They wanted an analysis/overview of the CitiBike bike hire scheme for 2020.
 
 ## Dataset Overview:
@@ -10,10 +10,10 @@ They wanted an analysis/overview of the CitiBike bike hire scheme for 2020.
  - Temperature, rained/snowed, day, month - Manual grab and creation by me - Weather thanks to [timeanddate.com](https://www.timeanddate.com/weather/usa/new-york/historic?month=12&year=2020)
 
 ## Key Tasks performed:
-Developed an analysis using Python and relevant libraries (pandas, NumPy, Folium, sklearn, pylab, statsmodels.api,  matplotlib, scipy, and seaborn).
-Conducted procedures regarding data wrangling and consistency checks after importation of data - joining by a date column.
-Created Flags to help with more effective analysis - Weekday, User Type, Quarterlies, Gender, Popular Stations.
-Generated visualisations to communicate insights to stakeholders - Tableau.
+ - Developed an analysis using Python and relevant libraries (pandas, NumPy, Folium, sklearn, pylab, statsmodels.api,  matplotlib, scipy, and seaborn).
+ - Conducted procedures regarding data wrangling and consistency checks after importation of data - joining by a date column.
+ - Created Flags to help with more effective analysis - Weekday, User Type, Quarterlies, Gender, Popular Stations.
+ - Generated visualisations to communicate insights to stakeholders - Tableau.
 
 ## Procedures:
 Correlation Matrix Heat Map
