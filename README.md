@@ -33,7 +33,7 @@ They wanted an analysis/overview of the CitiBike bike hire scheme for 2020.
 
 
 ## Key Questions & Objectives
-What are the most popular lengths of hires?
-What is the age. gender and User Type of Users?
-Where are the most popular stations?
-What Time, Day and Month are the busiest for hires?
+ - What are the most popular lengths of hires?
+ - What is the age. gender and User Type of Users?
+ - Where are the most popular stations?
+ - What Time, Day and Month are the busiest for hires?
