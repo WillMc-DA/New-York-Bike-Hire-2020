@@ -16,20 +16,20 @@ They wanted an analysis/overview of the CitiBike bike hire scheme for 2020.
  - Generated visualisations to communicate insights to stakeholders - Tableau.
 
 ## Procedures:
-Correlation Matrix Heat Map
-Pair Plots
-Categorical Plot
-Folium Map
-Regression Analysis
- - Creating Training and Test sets
- - Regression Line Scatterplot
- - Predicted v Actual comparision
-Clusters
-Time Series Analysis
- - Decomposition
- - Dickey-Fuller Test
- - Differencing
- - Autocorrelations
+ - Correlation Matrix Heat Map
+ - Pair Plots
+ - Categorical Plot
+ - Folium Map
+ - Regression Analysis
+  - Creating Training and Test sets
+  - Regression Line Scatterplot
+  - Predicted v Actual comparision
+ - Clusters
+ - Time Series Analysis
+  - Decomposition
+  - Dickey-Fuller Test
+  - Differencing
+  - Autocorrelations
 
 
 ## Key Questions & Objectives
