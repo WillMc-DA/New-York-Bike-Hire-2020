@@ -1,5 +1,5 @@
 # An analysis of bike hires in NYC in 2020 - CareerFoundry Course work
-All the Key Tasks mentioned below were done for the [Tableau Visualisation/Report](https://public.tableau.com/app/profile/will.mc2262/viz/NYCCitiBikeHires2020/NYCCitiBikeHires2020) and all the Porcedures were done for course lessons.
+All the Key Tasks mentioned below were done for the [Tableau Visualisation/Report](https://public.tableau.com/app/profile/will.mc2262/viz/NYCCitiBikeHires2020/NYCCitiBikeHires2020) and all the Procedures were done for course lessons.
 
 ![CitiBike Logo](/01%20Project%20Management/CitiBikeCollage.jpg)
 
