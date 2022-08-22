@@ -10,13 +10,13 @@ They wanted an analysis/overview of the CitiBike bike hire scheme for 2020.
  - Public data available from https://citibikenyc.com
  - Temperature, rained/snowed, day, month - Manual grab and creation by me - Weather thanks to [timeanddate.com](https://www.timeanddate.com/weather/usa/new-york/historic?month=12&year=2020)
 
-## Key Tasks performed - My own queries
+## Key Tasks performed - My own queries (Scripts numbered 7)
  - Developed an analysis using Python and relevant libraries (pandas, NumPy, Folium, sklearn, pylab, statsmodels.api,  matplotlib, scipy, and seaborn).
  - Conducted procedures regarding data wrangling and consistency checks after importation of data - joining by a date column.
  - Created Flags to help with more effective analysis - Weekday, User Type, Quarterlies, Gender, Popular Stations.
  - Generated visualisations to communicate insights to stakeholders - Tableau.
 
-## Procedures - Course Exercises
+## Procedures - Course Exercises (Scripts numbered 1-6)
  - Correlation Matrix Heat Map
  - Pair Plots
  - Categorical Plot
